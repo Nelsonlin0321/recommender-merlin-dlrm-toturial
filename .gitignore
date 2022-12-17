@@ -1,0 +1,7 @@
+data/
+categories/
+train/
+valid/
+categories/
+ipy
+.ipynb_checkpoints/
