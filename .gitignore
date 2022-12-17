@@ -5,3 +5,4 @@ valid/
 categories/
 ipy
 .ipynb_checkpoints/
+.env
